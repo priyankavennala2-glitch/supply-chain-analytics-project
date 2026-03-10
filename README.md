@@ -1,4 +1,3 @@
 # supply-chain-analytics-project
-End-to-end Supply Chain &amp; Manufacturing Analytics project using SQL, Power BI, and Python.
 
-Power BI dashboards for supplier performance, logistics cost trends, and inventory forecasting are currently under development and will be uploaded soon : )
+End-to-end Supply Chain Analytics project using SQL and Power BI to analyze supplier performance, logistics delays, inventory imbalance, and production impact.

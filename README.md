@@ -1,3 +1,7 @@
-# supply-chain-analytics-project
+# Supply Chain Analytics Dashboard (SQL + Power BI)
 
-End-to-end Supply Chain Analytics project using SQL and Power BI to analyze supplier performance, logistics delays, inventory imbalance, and production impact.
+## Dashboard Preview
+![Dashboard](Dashboard_Preview.png)
+
+## Project Overview
+End-to-end Supply Chain & Manufacturing Analytics project using SQL and Power BI to analyze supplier performance, logistics delays, inventory imbalance, and production impact.

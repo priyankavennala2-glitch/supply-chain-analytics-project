@@ -4,6 +4,7 @@
 ![Dashboard](Dashboard_Preview.png)
 
 ## Dashboard Preview ( phase 7)
+<img width="1564" height="800" alt="image" src="https://github.com/user-attachments/assets/ba0351da-820e-4257-bca2-a2ed971753e0" />
 
 
 ## Project Overview
